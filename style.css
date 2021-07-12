@@ -1,0 +1,38 @@
+
+body {
+	background: #424242;
+}
+div {
+	background: #111;
+	padding: 10px;
+	width: 30%;
+	margin: 35%;
+	margin-top: 10px;
+	border-radius: 30px;
+}
+input {
+	background: #F44336;
+	width: 100%;
+	margin: 5px;
+}
+button {
+	background: #F44336;
+}
+p {
+	color: #F44336;
+}
+h1 {
+	color: #F44336;
+	margin: 15px 0 15px 0;
+	text-align: center;
+}
+button {
+	margin: 2px;
+	margin-top: 0px;
+}
+@media(max-width:600px){
+	div {
+		width: 70%;
+		margin: 15%;
+	}
+}
